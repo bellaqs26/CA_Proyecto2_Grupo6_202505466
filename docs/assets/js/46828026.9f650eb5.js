@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmi_practica=self.webpackChunkmi_practica||[]).push([["224"],{9978(a){a.exports=JSON.parse('{"metadata":{"permalink":"/CA_Proyecto2_Grupo6_202505466/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":0,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
